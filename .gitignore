@@ -1,0 +1,16 @@
+#Binarios
+dwm
+*.o
+
+#Archivos de configuración
+config.def.h
+
+#Archivos temporales y de respaldo
+*.orig
+*.rej
+
+#Otros
+README
+LICENSE
+
+
